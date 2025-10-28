@@ -43,7 +43,7 @@ body {
 
 /* Main Content Wrapper */
 .main {
-  padding-top: 70px; /* Jaraknya dikurangi agar lebih naik */
+  padding-top: 70px;
   padding-bottom: 80px; /* Jarak untuk footer */
 }
 
@@ -106,7 +106,7 @@ body {
   animation: thumbs-up-rotate 4s infinite linear alternate;
 }
 
-/* Animasi untuk ikon jempol sesuai permintaan */
+/* Animasi untuk ikon jempol */
 @keyframes thumbs-up-rotate {
   from {
     transform: rotate(0deg);
